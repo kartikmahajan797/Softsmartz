@@ -1,12 +1,33 @@
-import Image from "next/image";
+import Navbar from "./navbar/page";
+import HeroSection from "./heroSection/page";
+import TrustedBrands from "./trustedBrands/page";
+import CompanySection from "./companySection/page";
+import ServiceSection from "./serviceSection/page";
+import FlexibleEngagementModels from "./flexibleEngagementModels/page";
+import DigitalTransformationHero from "./digitalTransformationHero/page";
+import TechnologicalFramework from "./technologicalFramework/page";
+import IndustrialExpertise from "./industrialExpertise/page";
+import TestimonialSection from "./testimonialSection/page";
+import ConsultationForm from "./consultationForm/page";
+import Footer from "./footer/page";
 
 export default function Home() {
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center p-8 bg-white dark:bg-black text-black dark:text-white">
-      <h1 className="text-3xl font-bold mb-4">Hello Softsmartz 👋</h1>
-      <p className="text-lg text-center max-w-md">
-        Welcome to your Next.js project. Start building g
-      </p>
-    </div>
+    <>
+      <Navbar />
+      <main className="">
+        <HeroSection />
+        <TrustedBrands />
+        <CompanySection />
+        <ServiceSection />
+        <FlexibleEngagementModels />
+        <DigitalTransformationHero />
+        <TechnologicalFramework />
+        <IndustrialExpertise />
+        <TestimonialSection />
+        <ConsultationForm />
+      </main>
+      <Footer />
+    </>
   );
 }
