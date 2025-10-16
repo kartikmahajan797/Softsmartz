@@ -13,7 +13,7 @@ export default function FlexibleEngagementModels() {
       id: 1,
       icon: Monitor,
       title: "Offshore Development Teams",
-      description: "Softura's Offshore Development Teams provide certified professionals who work remotely to deliver cost-effective solutions, ensuring swift integration with your existing workflows.",
+      description: "Softsmartz's Offshore Development Teams provide certified professionals who work remotely to deliver cost-effective solutions, ensuring swift integration with your existing workflows.",
       details: "Scale the team size as per your project needs while leveraging their skillset for enhanced productivity and innovation.",
       benefits: [
         "Certified professionals",
@@ -27,7 +27,7 @@ export default function FlexibleEngagementModels() {
       id: 2,
       icon: Users,
       title: "IT Staff Augmentation",
-      description: "Complement your in-house team with Softura's IT Staff Augmentation services, which offer on-demand access to top-tier tech engineers to meet critical project deadlines.",
+      description: "Complement your in-house team with Softsmartz's IT Staff Augmentation services, which offer on-demand access to top-tier tech engineers to meet critical project deadlines.",
       details: "This model suits companies that need specialized skills or extra manpower temporarily, without the long-term commitment.",
       benefits: [
         "On-demand access",
@@ -41,7 +41,7 @@ export default function FlexibleEngagementModels() {
       id: 3,
       icon: Briefcase,
       title: "IT Outsourcing",
-      description: "Softura's IT outsourcing model allows you to confidently delegate entire projects, from initial design to final deployment, helping you focus on core business strategies.",
+      description: "Softsmartz's IT outsourcing model allows you to confidently delegate entire projects, from initial design to final deployment, helping you focus on core business strategies.",
       details: "Minimize risks and maximize efficiency with this model as our professionals manage all your end-to-end solutions.",
       benefits: [
         "End-to-end solutions",

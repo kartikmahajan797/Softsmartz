@@ -10,7 +10,7 @@ export default function HeroSection() {
         playsInline
       >
         <source
-          src="https://www.softura.com/wp-content/uploads/2024/11/Home-page-video-1.mp4"
+          src="https://www.Softsmartz.com/wp-content/uploads/2024/11/Home-page-video-1.mp4"
           type="video/mp4"
         />
         Your browser does not support the video tag.

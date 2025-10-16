@@ -43,7 +43,7 @@ const servicesMenu = {
       items: [],
     },
     {
-      title: "Softura POD",
+      title: "Softsmartz POD",
       subtitle: "Build Your Custom IT Teams",
       items: [],
     },
@@ -55,8 +55,8 @@ const servicesMenu = {
         { name: "Application Development", href: "/softwareDevelopmentPage" },
         { name: "Application Modernization", href: "/applicationModernization" },
         { name: "Mobile App Development", href: "/mobileAppLanding" },
-        { name: "Software Development as a Service", href: "#" },
-        { name: "UI/UX Services", href: "#" },
+        { name: "Software Development as a Service", href: "/softwareDevelopmentService" },
+        { name: "UI/UX Services", href: "/ui/UIUXLandingPage" },
       ],
     },
     {
